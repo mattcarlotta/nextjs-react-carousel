@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "nextjs-react-carousel",
   "private": true,
   "scripts": {
     "dev": "next dev",
